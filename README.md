@@ -106,14 +106,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/bestselection18/bestselection18/blob/main/divider2.png" alt="divider"/>
-</div>
-
-<p align="center">
-  <img height = "150px" style="margin-right: 10px;" src = "https://github-readme-streak-stats.herokuapp.com?user=bestselection18&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-</p>
-
-<div align="center">
   <img src="https://github.com/bestselection18/bestselection18/blob/main/divider1.png" alt="divider"/>
 </div>
 
