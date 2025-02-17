@@ -1,5 +1,5 @@
 <h1 align="center">
-  Blockchain and AI Developer
+  Senior Software Engineer
 </h1>
 <div align="center">
   <img src="https://github.com/bestselection18/bestselection18/blob/main/divider1.png" alt="divider"/>
